@@ -14,3 +14,4 @@ student_details = {
 }
 
 print(student_details["marks"][1])
+
